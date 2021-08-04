@@ -1,20 +1,20 @@
 //
-//  ViewController.swift
+//  NameViewController.swift
 //  PhotoTest
 //
-//  Created by Pavel Avlasov on 30.07.2021.
+//  Created by Pavel Avlasov on 01.08.2021.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class NameViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
-    
+
 
     /*
     // MARK: - Navigation
